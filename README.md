@@ -5,7 +5,7 @@ KOREA CTF : CTF of Korea Univ. which held between CYDF and CS department.
 
 ## Reversing
 
-**There is Tooooooo Functions!** : **KOREA CTF** Easy
+**There are Tooooooo Functions!** : **KOREA CTF** Easy
 
 **Reversing Package** : **KOREA CTF** Medium
 
