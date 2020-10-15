@@ -10,3 +10,6 @@ There_are_Tooooooo_Functions! : Challenge Binary
 ### How to Make
 gcc -o There_are_Tooooooo_Functions!**
 strip There_are_Tooooooo_Functions!
+
+Flag : `KOREA{WELCOME_TO_EASY_REVERSING_CHALLENGE}`
+
